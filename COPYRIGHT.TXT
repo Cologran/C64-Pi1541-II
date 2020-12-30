@@ -1,0 +1,5 @@
+The hardware design is licensed under the CERN OHL v.1.2, http://ohwr.org/cernohl
+
+Disclaimer of warranties: This is a 100% private project without any warranties
+
+Documentation Location: on the PCB "Module" and here: https://github.com/tebl/C64-Pi1541-II

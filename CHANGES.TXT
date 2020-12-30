@@ -1,0 +1,23 @@
+Changes in "Version 2" (tebl/C64-Pi1541-II  ->  Cologran/C64-Pi1541-II)
+Date: 30.12.2020
+
+
+Changes "Module":
+1)Power Connector moved from the left side to the back side
+2) PCB cut like in "Faceplate" und "Backplate"
+3) moved the speaker 1 mm down and left
+4) reroute conducting paths around the speaker
+5) reroute conducting paths for the power jack and the display
+6) remove the soldering holes for the display (-> Faceplate)
+
+Changes "Faceplate":
+
+redesign the visable cupper
+remove the mounting holes for the display
+Changes "FaceplateB":
+
+redesign the visable cupper
+remove the mounting holes for the display
+Changes "Backplate":
+
+redesign the visable cupper
