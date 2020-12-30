@@ -7,8 +7,9 @@ Changes "Module":
 1) Power Connector moved from the left side to the back side
 2) PCB cut like in "Faceplate" und "Backplate"
 3) moved the speaker 1 mm down and left
-4) reroute conducting path around the speaker
-5) remove the soldering holes for the display (-> Faceplate)
+4) reroute conducting paths around the speaker
+5) reroute conducting paths for the power jack and the display
+6) remove the soldering holes for the display (-> Faceplate)
 
 Changes "Faceplate":
 1) redesign the visable cupper 
