@@ -2,6 +2,8 @@
 
 This is a light modified version of the C64-PI1541-II from tebl. (https://github.com/tebl/C64-Pi1541-II)
 
+
+
 Changes "Module": 
 1) Power Connector moved from the left side to the back side
 2) PCB cuts like in "Faceplate" und "Backplate"
@@ -19,6 +21,8 @@ Changes "FaceplateB":
 
 Changes "Backplate":
 1) redesign the visable cupper 
+
+
 
 
 
