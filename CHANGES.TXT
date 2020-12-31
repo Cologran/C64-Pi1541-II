@@ -7,8 +7,7 @@ Changes "Module":
 3) moved the speaker 1 mm down and left
 4) reroute conducting paths around the speaker
 5) reroute conducting paths for the power jack and the display
-6) remove the connection C64 CLK and RPi 5V (RPi was low powered by the C64 when connected to the C64 without PowerSupply on the PI1541 power jack)
-7) remove the soldering holes for the display (-> Faceplate)
+6) remove the soldering holes for the display (-> Faceplate)
 
 Changes "Faceplate":
 1) redesign the visable cupper
